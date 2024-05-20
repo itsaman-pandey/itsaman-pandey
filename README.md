@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Aman Pandey!
 
-![Profile Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)
+![Profile Banner](https://imgur.com/9oMZH6G.gif)
 
 ## 👀 About Me
 
