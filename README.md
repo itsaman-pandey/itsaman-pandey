@@ -14,19 +14,22 @@
     }
   }
 </style>
+
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I+am+Aman+Pandey)
 
 ## 👀 About Me
 
-I'm deeply interested in technology, problem-solving, IoT, embedded systems, and machine learning. I have a strong background in developing with the MERN stack.
+<p class="animated">I'm deeply interested in technology, problem-solving, IoT, embedded systems, and machine learning. I have a strong background in developing with the MERN stack.</p>
 
-🌱 I’m currently learning advanced machine learning techniques, improving my skills in IoT, and exploring new developments in embedded systems.
+🌱 <p class="animated">I’m currently learning advanced machine learning techniques, improving my skills in IoT, and exploring new developments in embedded systems.</p>
 
-💞️ I’m looking to collaborate on innovative projects involving IoT, embedded systems, machine learning, and software development.
+💞️ <p class="animated">I’m looking to collaborate on innovative projects involving IoT, embedded systems, machine learning, and software development.</p>
 
-😄 Pronouns: He/Him
+😄 <p class="animated">Pronouns: He/Him</p>
 
-⚡ Fun fact: I developed a rover capable of traversing different terrains and transmitting real-time video feed!
+⚡ <p class="animated">Fun fact: I developed a rover capable of traversing different terrains and transmitting real-time video feed!</p>
+
+## 🚀 Technologies & Tools
 
 ## 🚀 Technologies & Tools
 <p align="center">
