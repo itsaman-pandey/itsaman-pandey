@@ -121,15 +121,13 @@ I'm deeply interested in technology, problem-solving, IoT, embedded systems, and
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/amanpandeyi1234">
-    <img src="![image](https://github.com/itsaman-pandey/itsaman-pandey/assets/135219889/10fd8b5e-e2a3-4c8d-a2bd-f785da0ee2f0)
-" alt="HackerRank" width="64" />
+    <img src="https://img.icons8.com/?size=100&id=OUPsEPLKIebZ&format=png&color=000000" alt="HackerRank" width="64"" alt="HackerRank" width="64" />
   </a>
   <a href="https://leetcode.com/u/amanpandeyi1234/">
     <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" alt="LeetCode" width="64" />
   </a>
   <a href="https://www.geeksforgeeks.org/its_aman26/">
-    <img src="![image](https://github.com/itsaman-pandey/itsaman-pandey/assets/135219889/acee1814-bf0f-46b6-abba-b19d8c58caa3)
-" alt="GeeksforGeeks" width="64" />
+    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GeeksforGeeks" width="64" />
   </a>
 </p>
 
