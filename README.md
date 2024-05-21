@@ -1,5 +1,3 @@
-
-
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I+am+Aman+Pandey)
 
 ## 👀 About Me
@@ -16,7 +14,6 @@
 
 ## 🚀 Technologies & Tools
 
-## 🚀 Technologies & Tools
 <p align="center">
   <a href="https://devdocs.io/c/">
     <img src="https://img.icons8.com/color/64/000000/c-programming.png" alt="C" />
