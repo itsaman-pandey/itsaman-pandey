@@ -57,12 +57,6 @@ I'm deeply interested in technology, problem-solving, IoT, embedded systems, and
   <!-- Add more social links as needed -->
 </p>
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Create Dynamic GitHub READMEs](https://yourblog.com/how-to-create-dynamic-github-readmes)
-- [Understanding JavaScript Closures](https://yourblog.com/understanding-javascript-closures)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🎨 Projects
 
