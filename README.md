@@ -118,17 +118,19 @@ I'm deeply interested in technology, problem-solving, IoT, embedded systems, and
 
 ## 👨‍💻 Coding Profiles
 
+
 <p align="center">
   <a href="https://www.hackerrank.com/profile/amanpandeyi1234">
-    <img src="https://img.icons8.com/color/64/000000/hackerrank.png" alt="HackerRank" />
+    <img src="https://img.icons8.com/?size=100&id=OUPsEPLKIebZ&format=png&color=000000" alt="HackerRank" width="64" />
   </a>
   <a href="https://leetcode.com/u/amanpandeyi1234/">
-    <img src="https://img.icons8.com/color/64/000000/leetcode.png" alt="LeetCode" />
+    <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" alt="LeetCode" width="64" />
   </a>
   <a href="https://www.geeksforgeeks.org/its_aman26/">
-    <img src="https://img.icons8.com/color/64/000000/geeksforgeeks.png" alt="GeeksforGeeks" />
+    <img src="https://img.icons8.com/color/64/000000/geeksforgeeks.png" alt="GeeksforGeeks" width="64" />
   </a>
 </p>
+
 
 ---
 
