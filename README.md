@@ -1,20 +1,15 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I+am+Aman+Pandey)
 
 ## 👀 About Me
-<p align="center">
-  <img src="https://img.icons8.com/?size=100&id=qk6EKKDxdVwc&format=png&color=000000" alt="Icon 1" />
-</p>
+<p align="center"><img src="https://img.icons8.com/?size=100&id=qk6EKKDxdVwc&format=png&color=000000" alt="Icon 1" /></p>
 <p>I'm deeply interested in technology, problem-solving, IoT, embedded systems, and machine learning. I have a strong background in developing with the MERN stack.</p>
 
-<p align="center">
-  <img src="https://img.icons8.com/?size=100&id=Xm04dMZdE5rc&format=png&color=000000" alt="Icon 2" />
-</p>
+<p align="center"><img src="https://img.icons8.com/?size=100&id=Xm04dMZdE5rc&format=png&color=000000" alt="Icon 2" /></p>
 <p>I’m currently learning advanced machine learning techniques, improving my skills in IoT, and exploring new developments in embedded systems.</p>
 
-<p align="center">
-  <img src="https://img.icons8.com/?size=100&id=yEzFx4cwLDIh&format=png&color=000000" alt="Icon 3" />
-</p>
+<p align="center"><img src="https://img.icons8.com/?size=100&id=yEzFx4cwLDIh&format=png&color=000000" alt="Icon 3" /></p>
 <p>I’m looking to collaborate on innovative projects involving IoT, embedded systems, machine learning, and software development.</p>
+
 
 
  <p >Pronouns: He/Him</p>
