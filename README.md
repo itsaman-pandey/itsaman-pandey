@@ -119,7 +119,7 @@ I'm deeply interested in technology, problem-solving, IoT, embedded systems, and
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/amanpandeyi1234">
-    <img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="HackerRank" />
+    <img src="https://img.icons8.com/color/64/000000/hackerrank.png" alt="HackerRank" />
   </a>
   <a href="https://leetcode.com/u/amanpandeyi1234/">
     <img src="https://img.icons8.com/color/64/000000/leetcode.png" alt="LeetCode" />
@@ -128,6 +128,7 @@ I'm deeply interested in technology, problem-solving, IoT, embedded systems, and
     <img src="https://img.icons8.com/color/64/000000/geeksforgeeks.png" alt="GeeksforGeeks" />
   </a>
 </p>
+
 
 ---
 
