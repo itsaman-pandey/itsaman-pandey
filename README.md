@@ -1,3 +1,19 @@
+<style>
+  .animated {
+    animation: fadeInUp 1s ease-out;
+  }
+
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+</style>
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I+am+Aman+Pandey)
 
 ## 👀 About Me
