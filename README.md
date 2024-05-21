@@ -22,46 +22,46 @@ I'm deeply interested in technology, problem-solving, IoT, embedded systems, and
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
   </a>
   <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
   </a>
   <a href="https://nodejs.org/">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
   </a>
   <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" />
   </a>
   <a href="https://www.mongodb.com/">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
   </a>
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   </a>
   <a href="https://www.cplusplus.com/">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
   </a>
   <a href="https://www.arduino.cc/">
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" />
   </a>
   <a href="https://www.raspberrypi.org/">
-    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi" />
   </a>
   <a href="https://www.tensorflow.org/">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />
   </a>
   <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="SQL" />
   </a>
   <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
   </a>
 </p>
 
@@ -75,28 +75,20 @@ I'm deeply interested in technology, problem-solving, IoT, embedded systems, and
 ## 📊 Visitor Count
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=itsaman-pandey.visitor-badge" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/itsaman-pandey/count.svg" alt="Visitor Count" />
 </p>
 
 ## 🔗 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/itsaman-pandey">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" />
   </a>
   <!-- Add more social links as needed -->
 </p>
-
-## 🎨 Projects
-
-### Project Name
-
-![Project Banner](https://via.placeholder.com/1200x400.png?text=Project+Banner)
-
-Description of your project.
 
 ## 📚 Repositories
 
