@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Aman Pandey!
 
 ![Profile Banner](https://imgur.com/9oMZH6G.gif)
+https://readme-typing-svg.demolab.com/?lines=Hello! I am Aman Pandey 🏽; I love programming and technology 🖥️; Always learning new skills 🚀&font=Fira Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000
 
 ## 👀 About Me
 
