@@ -2,9 +2,9 @@
 
 ## 👀 About Me
 
-<p class="animated">I'm deeply interested in technology, problem-solving, IoT, embedded systems, and machine learning. I have a strong background in developing with the MERN stack.</p>
+<img src="https://icons8.com/icon/0HAGNdamoJug/learning" alt=""><p >I'm deeply interested in technology, problem-solving, IoT, embedded systems, and machine learning. I have a strong background in developing with the MERN stack.</p>
 
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" /> <p>I’m currently learning advanced machine learning techniques, improving my skills in IoT, and exploring new developments in embedded systems.</p>
+ <p>I’m currently learning advanced machine learning techniques, improving my skills in IoT, and exploring new developments in embedded systems.</p>
 
  <p >I’m looking to collaborate on innovative projects involving IoT, embedded systems, machine learning, and software development.</p>
 
