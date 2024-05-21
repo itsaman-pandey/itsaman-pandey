@@ -68,18 +68,14 @@ I'm deeply interested in technology, problem-solving, IoT, embedded systems, and
   <a href="https://numpy.org/">
     <img src="https://img.icons8.com/color/64/000000/numpy.png" alt="Numpy" />
   </a>
-  <a href="https://www.geeksforgeeks.org/data-structures/">
-    <img src="https://img.icons8.com/color/64/000000/data-structure.png" alt="DSA" />
-  </a>
+
   <a href="https://git-scm.com/">
     <img src="https://img.icons8.com/color/64/000000/git.png" alt="GIT" />
   </a>
   <a href="https://github.com/">
     <img src="https://img.icons8.com/color/64/000000/github.png" alt="GITHUB" />
   </a>
-  <a href="https://www.generativeai.com/">
-    <img src="https://img.icons8.com/color/64/000000/artificial-intelligence.png" alt="GENAI" />
-  </a>
+
   <a href="https://code.visualstudio.com/">
     <img src="https://img.icons8.com/color/64/000000/visual-studio-code-2019.png" alt="VS CODE" />
   </a>
@@ -89,15 +85,11 @@ I'm deeply interested in technology, problem-solving, IoT, embedded systems, and
   <a href="https://www.arduino.cc/">
     <img src="https://img.icons8.com/color/64/000000/arduino.png" alt="Arduino" />
   </a>
-  <a href="https://www.espressif.com/en/products/socs/esp32">
-    <img src="https://img.icons8.com/color/64/000000/esp.png" alt="ESP 32" />
-  </a>
+
   <a href="https://powerbi.microsoft.com/">
     <img src="https://img.icons8.com/color/64/000000/power-bi.png" alt="PowerBI" />
   </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
-    <img src="https://img.icons8.com/color/64/000000/microsoft-excel.png" alt="Excel" />
-  </a>
+
 </p>
 
 
