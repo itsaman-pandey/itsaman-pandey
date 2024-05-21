@@ -68,14 +68,12 @@ I'm deeply interested in technology, problem-solving, IoT, embedded systems, and
   <a href="https://numpy.org/">
     <img src="https://img.icons8.com/color/64/000000/numpy.png" alt="Numpy" />
   </a>
-
   <a href="https://git-scm.com/">
     <img src="https://img.icons8.com/color/64/000000/git.png" alt="GIT" />
   </a>
   <a href="https://github.com/">
     <img src="https://img.icons8.com/color/64/000000/github.png" alt="GITHUB" />
   </a>
-
   <a href="https://code.visualstudio.com/">
     <img src="https://img.icons8.com/color/64/000000/visual-studio-code-2019.png" alt="VS CODE" />
   </a>
@@ -85,19 +83,10 @@ I'm deeply interested in technology, problem-solving, IoT, embedded systems, and
   <a href="https://www.arduino.cc/">
     <img src="https://img.icons8.com/color/64/000000/arduino.png" alt="Arduino" />
   </a>
-
   <a href="https://powerbi.microsoft.com/">
     <img src="https://img.icons8.com/color/64/000000/power-bi.png" alt="PowerBI" />
   </a>
-
 </p>
-<div>
-   <h2>🐍 My Contributions 🐍</h2>
-    <br>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-    <br/><br/><br/>
-</div>
-
 
 ## 📈 GitHub Stats
 
