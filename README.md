@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I+am+Aman+Pandey)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hello!+I+am+Aman+Pandey)
+
 
 ## 👀 About Me
 
