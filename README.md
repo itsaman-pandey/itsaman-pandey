@@ -1,6 +1,4 @@
-# 👋 Hi there, I'm Aman Pandey!
 
-![Profile Banner](https://imgur.com/9oMZH6G.gif)
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I+am+Aman+Pandey)
 
 
