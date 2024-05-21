@@ -96,12 +96,11 @@ I'm deeply interested in technology, problem-solving, IoT, embedded systems, and
 </p>
 
 ## 📈 GitHub Status
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsaman-pandey&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsaman-pandey&theme=radical" alt="GitHub Streak" />
-</p>
 <div align="center">
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsaman-pandey&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=itsaman-pandey&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=itsaman-pandey&theme=radical" alt="GitHub Streak"/>
+  <br/>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsaman-pandey&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
 </div>
 
 
