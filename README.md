@@ -93,24 +93,26 @@ I'm deeply interested in technology, problem-solving, IoT, embedded systems, and
   <a href="https://powerbi.microsoft.com/">
     <img src="https://img.icons8.com/color/64/000000/power-bi.png" alt="PowerBI" />
   </a>
-  <!-- NPL (Natural Language Processing) -->
+<!-- NPL (Natural Language Processing) -->
 <a href="https://en.wikipedia.org/wiki/Natural_language_processing">
-  <img src="https://img.icons8.com/color/64/000000/nlp.png" alt="NLP" />
+  <img src="https://your-image-hosting-service.com/nlp-icon.png" alt="NLP" />
 </a>
 
-
+<!-- scikit-learn -->
 <a href="https://scikit-learn.org/">
-  <img src="https://img.icons8.com/color/64/000000/scikit-learn.png" alt="scikit-learn" />
+  <img src="https://your-image-hosting-service.com/scikit-learn-icon.png" alt="scikit-learn" />
 </a>
 
-
+<!-- seaborn -->
 <a href="https://seaborn.pydata.org/">
-  <img src="https://img.icons8.com/color/64/000000/seaborn.png" alt="seaborn" />
+  <img src="https://your-image-hosting-service.com/seaborn-icon.png" alt="seaborn" />
 </a>
 
+<!-- matplotlib -->
 <a href="https://matplotlib.org/">
-  <img src="https://img.icons8.com/color/64/000000/matplotlib.png" alt="matplotlib" />
+  <img src="https://your-image-hosting-service.com/matplotlib-icon.png" alt="matplotlib" />
 </a>
+
 
 </p>
 
