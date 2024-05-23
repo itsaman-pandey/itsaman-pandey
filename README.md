@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" alt="Waving Hand" width="80" />
   <br>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!+I+am+Aman+Pandey&center=true&width=500&height=50" alt="Typing SVG">
+  <h1>Hello! I am  <img src="https://readme-typing-svg.demolab.com/?lines=Aman+Pandey&center=true&width=500&height=50" alt="Typing SVG"></h1>
+ 
 </div>
 
 
